@@ -65,11 +65,11 @@ function About() {
       </div>
       <div className='tasteheader'>
         <h1>Taste the difference with <br /><span className='color'>our handcrafted momos</span></h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Modi iusto in, ipsam blanditiis sequi maxime ducimus f <br />ugit laborum aut amet distinctio eaque, debitis praesen <br />tium, eos officiis delectus harum quas nostrum.</p>    
+        <p>When it comes to simple, delicious, one-meal dishes of Nepal, you can't beat the famous MOMOS म:म:  served with a variety of dipping sauces. <br /> Modi iusto in, ipsam blanditiis sequi maxime ducimus f <br />ugit laborum aut amet distinctio eaque, debitis praesen <br />tium, eos officiis delectus harum quas nostrum.</p>    
       </div>    
       <div className='tradheader'>
         <h1>Our momos are the <br /> perfect <span className='color'>blend of tradition</span> <br /> and <span className='color'>innovation</span></h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br /> Deleniti eveniet commodi eaque id cupiditate sit similiq <br />ue, aperiam culpa. Consequuntur laborum ea reprehend <br />erit rem velit veritatis laboriosam? Molestiae, quidem! C <br />onsectetur officia deserunt id magni blanditiis autem cu <br />mque totam et voluptatem veritatis.</p>
+        <p>A traditional serving of meat-filled Momo dumplings, brimming with delicate and flavorful juices served with traditional tomato chutney and yellow chili-tomato-sesame seed sauce.<br /> Deleniti eveniet commodi eaque id cupiditate sit similiq <br />ue, aperiam culpa. Consequuntur laborum ea reprehend <br />erit rem velit veritatis laboriosam? Molestiae, quidem! C <br />onsectetur officia deserunt id magni blanditiis autem cu <br />mque totam et voluptatem veritatis.</p>
       </div>
       <div>
         <img src={tradimg} alt='' className='tradimg' />
